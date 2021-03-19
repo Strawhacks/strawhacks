@@ -1,4 +1,1 @@
-#
-##
-###
-#### Strawhacks Site :pirate_flag:
+## Strawhacks Site :pirate_flag:
