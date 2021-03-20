@@ -6,5 +6,6 @@ style: hacker
 listen_for_client_preferred_style: false 
 header_pages:
   - index.md
-footer: 'follow us on Twitter: <a href="https://twitter.com/gokumatrix">@gokumatrix</a> <a href="https://twitter.com/ohp3x">@ohp3x</a>'
+footer: 'follow us on Twitter: <a href="https://twitter.com/ohp3x">@ohp3x</a>' # todo: ask and add other handles
+# bruh, like how many twitter accounts do you have that are not socks
 # theme: jekyll-theme-hacker
