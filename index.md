@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Strawhacks CTF Team Site
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Some content should go here.
