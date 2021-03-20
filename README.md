@@ -1,1 +1,1 @@
-# Strawhacks CTF Team
+# Strawhacks CTF Team Site
