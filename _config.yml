@@ -4,6 +4,7 @@ url: "https://strawhacks.github.io"
 remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 listen_for_client_preferred_style: false 
-# header_pages:
+header_pages:
+  - index.md
 footer: 'follow us on Twitter: <a href="https://twitter.com/gokumatrix">@gokumatrix</a> <a href="https://twitter.com/ohp3x">@ohp3x</a>'
 # theme: jekyll-theme-hacker
