@@ -1,9 +1,9 @@
 ---
-title: /
+title: home
 layout: home
-permalink: /
+permalink: home
 ---
 
 # Strawhacks CTF Team Site
 
-Some content should go here.
+Under construction: Some content should go here.
