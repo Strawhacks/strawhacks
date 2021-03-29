@@ -1,1 +1,1 @@
-# Strawhacks CTF Team Site
+# Strawhacks CTF Team Site :pirate_flag:
