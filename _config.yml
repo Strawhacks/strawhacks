@@ -20,9 +20,9 @@
 
 title: Strawhacks
 # logo: 
-email: your-email@example.com
+email: info@strawhacks.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a content aggregation site for the Strawhacks CTF Team
+  This is the website for the Strawhacks CTF Team
 url: https://strawhacks.github.io
 baseurl: "/"
 
@@ -30,7 +30,10 @@ twitter_username: strawhacks
 github_username:  strawhacks
 
 # Build settings
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
