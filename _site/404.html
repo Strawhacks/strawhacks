@@ -17,8 +17,9 @@
 <script type="application/ld+json">
 {"description":"This is the website for the Strawhacks CTF Team","@type":"WebPage","url":"http://localhost:4000/404.html","headline":"Strawhacks","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Strawhacks" /></head>
-<body><header class="site-header" role="banner">
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Strawhacks" />
+</head>
+<body><header class="site-header">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Strawhacks</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -30,7 +31,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/another-page.html">Welcome to another page</a></div>
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -62,21 +63,23 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">Strawhacks</h2>
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">Strawhacks</li><li><a class="u-email" href="mailto:info@strawhacks.com">info@strawhacks.com</a></li></ul>
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
       </div>
-
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/strawhacks"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">strawhacks</span></a></li><li><a href="https://www.twitter.com/strawhacks"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">strawhacks</span></a></li></ul>
-</div>
-
-      <div class="footer-col footer-col-3">
+      <div class="footer-col">
         <p>This is the website for the Strawhacks CTF Team</p>
       </div>
     </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+</div>
 
   </div>
 
