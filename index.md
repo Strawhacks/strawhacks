@@ -4,7 +4,7 @@ layout: home
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to about](./another-page.html).
+[Link to about](./about/).
 
 There should be whitespace between paragraphs.
 
