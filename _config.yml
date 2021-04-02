@@ -30,11 +30,13 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
 # theme: jekyll-theme-minimal
-theme: minima
+remote_theme: jekyll/minima
+#theme: minima
 minima:
   skin: dark
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -58,7 +60,7 @@ minima:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-    keybase: lol 
+    # keybase: lol 
 
     # Mastodon instances
     # mastodon:
