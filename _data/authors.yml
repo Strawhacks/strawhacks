@@ -1,0 +1,31 @@
+# Authors
+ohp3x:
+  name     : "ohp3x"
+  bio      : # "stuff about you"
+  avatar   : # "/assets/images/bio-photo.jpg"
+  links:
+    - lable: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:user@domain.com"
+    - lable: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://themachineryofnight.com"
+    - lable: "Twitter"
+      icon: "fas fa=fw fa-twitter-square"
+      url: "https://twitter.com/ohp3x"
+
+# Example
+Flynn:
+  name     : "Kevin Flynn"
+  bio      :  "Gifted computer programmer who, in 1982, created Space Paranoids and Light Cycles."
+  avatar   : # "/assets/images/bio-frodo-photo.jpg"
+  links:
+    - lable: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kevin.flynn@encom.com"
+    - lable: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://wiki.c2.com/WhyWeHateRuby"
+    - lable: "Twitter"
+      icon: "fas fa=fw fa-twitter-square"
+      url: "https://twitter.com/"

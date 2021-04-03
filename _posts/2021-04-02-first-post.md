@@ -1,6 +1,7 @@
 ---
-layout: posts
+layout: single
 title: "First Post"
+author: Flynn
 ---
 
 # Welcome
