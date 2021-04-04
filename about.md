@@ -1,5 +1,8 @@
 ---
 layout: single
+classes:
+  - wide
 ---
 
-# About
+
+A group of friends that have offensive tendancies.
