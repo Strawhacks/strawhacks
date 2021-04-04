@@ -1,8 +1,8 @@
 # Authors
 ohp3x:
   name     : "ohp3x"
-  bio      : # "stuff about you"
-  avatar   : # "/assets/images/bio-photo.jpg"
+  bio      : "I did a thing, once."
+  avatar   : "/assets/images/ohp3x_400x400.jpg"
   links:
     - lable: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -17,8 +17,8 @@ ohp3x:
 # Example
 Flynn:
   name     : "Kevin Flynn"
-  bio      :  "Gifted computer programmer who, in 1982, created Space Paranoids and Light Cycles."
-  avatar   : # "/assets/images/bio-frodo-photo.jpg"
+  bio      : "Gifted computer programmer who, in 1982, created Space Paranoids and Light Cycles."
+  avatar   : "/assets/images/kflynn.jpg"
   links:
     - lable: "Email"
       icon: "fas fa-fw fa-envelope-square"
