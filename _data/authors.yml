@@ -12,7 +12,7 @@ ohp3x:
       icon: "fas fa-fw fa-link"
       url: "https://themachineryofnight.com"
     - lable: "Twitter"
-      icon: "fas fa=fw fa-twitter-square"
+      icon: "fas fa-fw fa-twitter-square"
       url: "https://twitter.com/ohp3x"
 
 # Example
@@ -24,10 +24,10 @@ Flynn:
   links:
     - lable: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kevin.flynn@encom.com"
+      url: "mailto:kevin[.]flynn@encom[.]com"
     - lable: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://wiki.c2.com/WhyWeHateRuby"
     - lable: "Twitter"
-      icon: "fas fa=fw fa-twitter-square"
+      icon: "fas fa-fw fa-twitter-square"
       url: "https://twitter.com/"
