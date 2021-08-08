@@ -6,4 +6,4 @@ author: Flynn
 
 # Welcome
 
-**Hello Word**, Here goes something.
+**Hello Word**, Here goes something!
