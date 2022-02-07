@@ -14,6 +14,29 @@ ohp3x:
     - lable: "Twitter"
       icon: "fas fa-fw fa-twitter-square"
       url: "https://twitter.com/ohp3x"
+    
+plensu:
+  name      : "plensu"
+  bio       : "Sometimes I hack things, sometimes I just break things."
+  avatar    : "/assets/images/plensu.jpg"
+  location  : "The Wire"
+  links:
+    - lable: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:plensu@plensu.me"
+    - lable: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://plensu.me"
+    - label: "Discord"
+      icon: "fas fa-fw fa-discord"
+      url: "https://discordapp.com/users/Plensu#7142"
+    - label: "Github"
+      icon: "fas fa-fw fa-github"
+      url: "https://github.com/plensu"
+    - lable: "Twitter"
+      icon: "fas fa-fw fa-twitter-square"
+      url: "https://twtter.com/plensu"
+
 
 # Example
 Flynn:
